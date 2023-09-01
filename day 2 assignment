@@ -1,0 +1,14 @@
+# Getting inputs
+a=int(input("Enter First number:"))
+b=int(input("Enter Second number:"))
+#finding floor division
+c=a//b
+print("Floor division=",c)
+#finding power
+d=a**b
+print(a,"power",b,"=",d)
+#finding out weather two variables are equal or not
+if(a==b):
+    print ("True")
+else:
+    print("False")
